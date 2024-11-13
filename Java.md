@@ -50,10 +50,24 @@ Cada bit = 2 possibilidades
 | %n            | Quebra de linha | newline      |
 
 
-  
-  
-
-  
 🔺Casting  
 >É a conversão explícita de um tipo para outro.É necessário quando o compilador não é capaz de “adivinhar” que o resultado de uma expressão deve ser de outro tipo.  
 resultado = (double) a / b;
+
+
+
+🔺Operadores de atribuição cumulativa
+
+| Operador | Explicação     | Equivalente |
+| -------- | -------------- | ----------- |
+| `a += b` | Adição         | `a = a + b` |
+| `a -= b` | Subtração      | `a = a - b` |
+| `a *= b` | Multiplicação  | `a = a * b` |
+| `a /= b` | Divisão        | `a = a / b` |
+| `a %= b` | Módulo (resto) | `a = a % b` |
+
+
+
+
+
+
