@@ -66,6 +66,13 @@ resultado = (double) a / b;
 | `a /= b` | Divisão        | `a = a / b` |
 | `a %= b` | Módulo (resto) | `a = a % b` |
 
+🔺Expressão condicional ternária 
+> Estrutura opcional ao if-else quando se deseja decidir um VALOR com base em uma condição.
+> 
+> Sintaxe: ( condição ) ? valor_se_verdadeiro : valor_se_falso
+> Exemplo:
+> ( 2 > 4 ) ? 50 : 80  = 80
+
 
 
 
