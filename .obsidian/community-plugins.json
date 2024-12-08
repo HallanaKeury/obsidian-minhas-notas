@@ -1,3 +1,13 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-admonition",
+  "calendar",
+  "dataview",
+  "editing-toolbar",
+  "obsidian-excalidraw-plugin",
+  "obsidian-icon-folder",
+  "ink",
+  "obsidian-reading-time",
+  "obsidian-spaced-repetition",
+  "obsidian-kanban"
 ]
